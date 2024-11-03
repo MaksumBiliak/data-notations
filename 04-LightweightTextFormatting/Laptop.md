@@ -20,4 +20,9 @@ In general, laptop components are not intended to be replaceable or upgradable b
 1. Memory
 1. Internal storage
 
-## Top manufactures
+## Top manufactures 
+- microsoft
+
+- forex
+
+- xam
